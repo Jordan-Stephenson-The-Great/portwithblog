@@ -23,6 +23,16 @@ M﻿any launches fail because the team focused on the wrong problems.
 * The pain of the problem wasn't big enough to overcome inertia
 * M﻿issed the bigger picture and only solved part of the problem
 
+> W﻿ithout product discovery, you're just hoping that the first idea you come up with, or that your executive told you to build, is a good solution for an important customer problem
+
 #### C﻿ommon Discovery Tasks
 
-C﻿ommon tasks during the product discovery phase include
+* R﻿eading through feature requests
+* A﻿nalyzing funnel metrics
+* I﻿nterviewing customers
+* T﻿esting concept mocks
+* D﻿iscussing long-term strategy
+* R﻿esearching competitors
+* D﻿oing market analysis
+* H﻿olding brainstorming sessions
+* R﻿unning design sprints
