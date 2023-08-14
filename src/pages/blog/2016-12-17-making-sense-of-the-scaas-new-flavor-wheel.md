@@ -1,33 +1,28 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: PM Career Ladder - Chapter 2
+date: 2023-08-14T19:14:04.734Z
+description: "My level is determined by my scope, autonomy and impact. "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/screenshot-2023-08-14-at-1.34.34-pm.png
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Product Manager](/img/screenshot-2023-08-14-at-1.34.34-pm.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+I﻿f you ask 5 people what a product manager is, you might get 6 different answers, Some people say a product manager is a mini-CEO. Others say they're the advocate for the customer. Some say they are the glue that holds the team together. Some people say they're responsible for strategy, while others focus on user research and execution.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+> T﻿he PM role is about **outcomes,** not *output*
 
-## What the updates mean to you
+W﻿hy so many answers? For onew thing, the role is complex and multi-faceted. For another, the really is different at different companies. Product management is a 'whitespace' role -the PM is responsible for anything that isn't covered by other people. Some PMs work with dedicated researchers, data scientists, product marketers, and copy-writers, while others have none of these. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+H﻿ere is my answer to what a product manager is: 
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+> A﻿ PM is the person on a product team who is responsible for choosing the right problems to go after, defining what success looks like, and guiding their team to achieve successful outcomes.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+M﻿y responsible for making sure everyone's vision is aligned, all parts fit together, and that nothing slips through the cracks. 
+
+> Y﻿ou must lead without authority, influencing people by using vision, research and analysis.
